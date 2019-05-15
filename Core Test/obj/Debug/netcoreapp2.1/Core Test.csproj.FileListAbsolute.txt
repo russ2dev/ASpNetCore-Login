@@ -1,0 +1,39 @@
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.deps.json
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.runtimeconfig.json
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.runtimeconfig.dev.json
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.dll
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.pdb
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.Views.dll
+C:\Users\Command Center\source\repos\Git\Core Test\bin\Debug\netcoreapp2.1\Core Test.Views.pdb
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.csprojAssemblyReference.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.csproj.CoreCompileInputs.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.RazorAssemblyInfo.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.RazorAssemblyInfo.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.AssemblyInfoInputs.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.AssemblyInfo.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.TagHelpers.input.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.TagHelpers.output.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.RazorCoreGenerate.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.RazorTargetAssemblyInfo.cache
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.RazorTargetAssemblyInfo.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.Views.pdb
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.dll
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.pdb
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Core Test.csproj.CopyComplete
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Razor\Pages\Recipe.g.cshtml.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Razor\Pages\Admin\AddEditRecipeModel.g.cshtml.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Command Center\source\repos\Git\Core Test\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\bin\Debug\netcoreapp2.1\Core Test.deps.json
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\bin\Debug\netcoreapp2.1\Core Test.runtimeconfig.json
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\bin\Debug\netcoreapp2.1\Core Test.runtimeconfig.dev.json
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\bin\Debug\netcoreapp2.1\Core Test.dll
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\bin\Debug\netcoreapp2.1\Core Test.pdb
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\obj\Debug\netcoreapp2.1\Core Test.csproj.CoreCompileInputs.cache
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\obj\Debug\netcoreapp2.1\Core Test.AssemblyInfoInputs.cache
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\obj\Debug\netcoreapp2.1\Core Test.AssemblyInfo.cs
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\obj\Debug\netcoreapp2.1\Core Test.dll
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\obj\Debug\netcoreapp2.1\Core Test.pdb
+C:\Users\Command Center\Desktop\ASPCore MVC using Razor\Core Test\obj\Debug\netcoreapp2.1\Core Test.csprojAssemblyReference.cache
